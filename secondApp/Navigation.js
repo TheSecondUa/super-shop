@@ -18,6 +18,7 @@ export default function Navigation() {
               style: {
                 borderTopLeftRadius: 20,
                 borderTopRightRadius: 20,
+                backgroundColor: '#808080'
               },
             }}
           >

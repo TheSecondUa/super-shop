@@ -5,7 +5,6 @@ export default function CatalogScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Каталог товарів</Text>
-      {/* Добавьте ваш контент для профиля здесь */}
     </View>
   );
 }
@@ -15,7 +14,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fff', // Цвет фона
+    backgroundColor: '#fff', 
   },
   text: {
     fontSize: 24,
